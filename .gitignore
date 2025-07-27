@@ -11,6 +11,7 @@ models/
 # Temporäre Dateien
 *.log
 *.tmp
+log.md
 
 # Lokale Umgebungen
 venv/

@@ -1,0 +1,25 @@
+# .gitignore
+
+# Bytecode-Dateien
+__pycache__/
+*.py[cod]
+
+# Modelle und große Dateien
+models/
+*.pt
+
+# Temporäre Dateien
+*.log
+*.tmp
+
+# Lokale Umgebungen
+venv/
+.env
+
+# Datenordner 
+data/
+
+# IDE- und Systemdateien
+.vscode/
+.DS_Store
+Thumbs.db

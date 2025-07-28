@@ -95,6 +95,18 @@ Das bedeutet: Sie dürfen den Code gerne verwenden, verändern und weitergeben �
 
 Hinweis: Die verwendeten Bilddaten unterliegen gesonderten Rechten – siehe Abschnitt *Datenquelle & Nutzungshinweis*.
 
+## Präsentation
+
+Die kompakte Präsentation des Projekts als Bilderserie:
+
+![Slide 1](presentation/1.png)
+![Slide 2](presentation/2.png)
+![Slide 3](presentation/3.png)
+![Slide 4](presentation/4.png)
+![Slide 5](presentation/5.png)
+![Slide 6](presentation/6.png)
+![Slide 7](presentation/7.png)
+
 ##  Status
 
 Projekt abgeschlossen – keine weitere Modelloptimierung geplant, da es sich um ein Portfolio-Projekt handelt.
